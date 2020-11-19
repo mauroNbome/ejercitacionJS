@@ -1,0 +1,15 @@
+body {
+    background-color: #dfdbd8 !important;
+}
+
+.container {
+    margin: 0 auto !important;
+}
+
+.btn {
+    background-color: #565c5e !important;
+    border-color: transparent !important;
+}
+.card {
+    margin: 0 auto;
+}
